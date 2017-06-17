@@ -1,0 +1,6 @@
+bu
+*.py[cod]
+__pycache__
+venv
+*.sqlite3
+logs
